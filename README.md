@@ -177,11 +177,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch.
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### **Additional Tips**
-1. Replace placeholders like `YOUR_API_KEY`, `YOUR_PROJECT_ID`, etc., with actual values or examples.
-2. Make sure to add a `.env.example` file (without sensitive data) to help others set up the environment easily.
-3. Include screenshots or gifs for a visual preview under the **Demo** section if applicable.
