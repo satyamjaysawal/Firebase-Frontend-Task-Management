@@ -1,4 +1,13 @@
-Here's a sample `README.md` for the Task Management System project:
+
+
+![image](https://github.com/user-attachments/assets/e13fda72-c7cb-4e8a-9135-a5fcb98b4014)
+
+![image](https://github.com/user-attachments/assets/150c7c77-e51d-470a-9ea3-ee543af39d44)
+
+
+![image](https://github.com/user-attachments/assets/e6accf66-9abc-4624-acc3-e09c82da5886)
+
+![image](https://github.com/user-attachments/assets/3e781efe-9571-482c-bdc5-cb2c7e4f6721)
 
 
 # Task Management System
